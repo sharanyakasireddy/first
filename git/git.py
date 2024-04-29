@@ -1,0 +1,1 @@
+print("atharva has no brain")
